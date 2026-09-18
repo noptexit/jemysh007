@@ -76,10 +76,6 @@ Whether it's **REST APIs**, **microservices**, **DevOps pipelines**, or **IoT au
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jemysh007&layout=compact&theme=radical" alt="Top Langs" />
-</div>
-<br/>
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=jemysh007&theme=radical" alt="GitHub Streak" />
 </div>
 
